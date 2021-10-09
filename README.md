@@ -24,7 +24,7 @@ The *source_code* folder contains four python scripts:
 
 The *images* folder contains 4 .jpeg files:
 
-![Camponotus darwinii](https://github.com/bchansen3/tfcb-homework01/blob/master/images/casent0191696_Camponotus_darwinii%20.jpg)
+[Camponotus darwinii](https://github.com/bchansen3/tfcb-homework01/blob/master/images/casent0191696_Camponotus_darwinii%20.jpg)
 
 ![Rhytidoponera metallica](https://github.com/bchansen3/tfcb-homework01/blob/master/images/casent0172345_Rhytidoponera_metallica.jpg)
 
