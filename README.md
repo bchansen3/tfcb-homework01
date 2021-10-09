@@ -24,11 +24,22 @@ The *source_code* folder contains four python scripts:
 
 The *images* folder contains 4 .jpeg files:
 
-**[Camponotus darwinii]**(https://github.com/bchansen3/tfcb-homework01/blob/master/images/casent0191696_Camponotus_darwinii%20.jpg)
+**Camponotus darwinii**
 
-**[Rhytidoponera metallica]**(https://github.com/bchansen3/tfcb-homework01/blob/master/images/casent0172345_Rhytidoponera_metallica.jpg)
+![Camponotus darwinii](https://github.com/bchansen3/tfcb-homework01/blob/master/images/casent0191696_Camponotus_darwinii%20.jpg)
 
-**[Acanthomyrmex ferox]**(https://github.com/bchansen3/tfcb-homework01/blob/master/images/casent0901788_p_1_high_Acanthomyrmex_ferox.jpg)
 
-**[Catalglyphis fortis]**(https://github.com/bchansen3/tfcb-homework01/blob/master/images/casent0901788_p_1_high_Acanthomyrmex_ferox.jpg)
+**Rhytidoponera metallica**
+
+![Rhytidoponera metallica](https://github.com/bchansen3/tfcb-homework01/blob/master/images/casent0172345_Rhytidoponera_metallica.jpg)
+
+
+**Acanthomyrmex ferox**
+
+![Acanthomyrmex ferox](https://github.com/bchansen3/tfcb-homework01/blob/master/images/casent0901788_p_1_high_Acanthomyrmex_ferox.jpg)
+
+
+**Catalglyphis fortis**
+
+![Catalglyphis fortis](https://github.com/bchansen3/tfcb-homework01/blob/master/images/casent0906296_p_1_high_Cataglyphis_fortis.jpg)
 
