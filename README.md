@@ -5,7 +5,7 @@
 This repo created for [homework 1](https://fredhutch.github.io/tfcb_2021/homeworks/homework01/)
 
 
-The **tfcb-homework01** repository c0ntains the following folders:
+The **tfcb-homework01** repository contains the following folders:
 - data
 - images
 - source_code
