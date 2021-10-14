@@ -26,20 +26,31 @@ The *images* folder contains 4 .jpeg files:
 
 **Camponotus darwinii**
 
-![Camponotus darwinii](https://github.com/bchansen3/tfcb-homework01/blob/master/images/casent0191696_Camponotus_darwinii%20.jpg)
+./images/casent0172345_Rhytidoponera_metallica.jpg
+
+![Camponotus darwinii](./images/casent0191696_Camponotus_darwinii.jpg)
 
 
 **Rhytidoponera metallica**
 
-![Rhytidoponera metallica](https://github.com/bchansen3/tfcb-homework01/blob/master/images/casent0172345_Rhytidoponera_metallica.jpg)
+![Rhytidoponera metallica](./images/casent0172345_Rhytidoponera_metallica.jpg)
 
 
 **Acanthomyrmex ferox**
 
-![Acanthomyrmex ferox](https://github.com/bchansen3/tfcb-homework01/blob/master/images/casent0901788_p_1_high_Acanthomyrmex_ferox.jpg)
+![Acanthomyrmex ferox](./images/casent0901788_p_1_high_Acanthomyrmex_ferox.jpg)
 
 
 **Catalglyphis fortis**
 
-![Catalglyphis fortis](https://github.com/bchansen3/tfcb-homework01/blob/master/images/casent0906296_p_1_high_Cataglyphis_fortis.jpg)
+![Catalglyphis fortis](./images/casent0906296_p_1_high_Cataglyphis_fortis.jpg)
+
+
+
+| Thing | Reasons why they are important | *Notes* |
+|-------|--------------------------------|-------|
+|Tables| Tables are important and unappreciated| This table brought to you by the table lobby|
+|oh wow| a third| row!|
+
+
 
