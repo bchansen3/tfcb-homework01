@@ -26,7 +26,7 @@ The *images* folder contains 4 .jpeg files:
 
 **Camponotus darwinii**
 
-./images/casent0172345_Rhytidoponera_metallica.jpg
+
 
 ![Camponotus darwinii](./images/casent0191696_Camponotus_darwinii.jpg)
 
